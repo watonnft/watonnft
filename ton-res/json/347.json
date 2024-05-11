@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Simple circle_Light circle_Handkerchief.png","name":"Water Sample N347","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Simple circle"},{"trait_type":"Background","value":"Light circle"},{"trait_type":"Feature","value":"Handkerchief"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Simple circle_Light circle_Handkerchief.png",
+	"name": "Water Sample N347",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Simple circle"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Light circle"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Handkerchief"
+		}
+	]
+}

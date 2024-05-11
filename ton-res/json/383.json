@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Simple circle_Simple red square_Writing Water.png","name":"Water Sample N383","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Simple circle"},{"trait_type":"Background","value":"Simple red square"},{"trait_type":"Feature","value":"Writing Water"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Simple circle_Simple red square_Writing Water.png",
+	"name": "Water Sample N383",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Simple circle"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Simple red square"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Writing Water"
+		}
+	]
+}

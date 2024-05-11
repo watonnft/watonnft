@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Horseshoe_Bars_Small leaf.png","name":"Water Sample N269","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Horseshoe"},{"trait_type":"Background","value":"Bars"},{"trait_type":"Feature","value":"Small leaf"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Horseshoe_Bars_Small leaf.png",
+	"name": "Water Sample N269",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Horseshoe"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Bars"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Small leaf"
+		}
+	]
+}

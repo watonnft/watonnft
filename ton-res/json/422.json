@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Splitted_Metal_Stick.png","name":"Water Sample N422","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Splitted"},{"trait_type":"Background","value":"Metal"},{"trait_type":"Feature","value":"Stick"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Splitted_Metal_Stick.png",
+	"name": "Water Sample N422",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Splitted"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Metal"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Stick"
+		}
+	]
+}

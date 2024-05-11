@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Double_Planks_Small leaf.png","name":"Water Sample N173","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Double"},{"trait_type":"Background","value":"Planks"},{"trait_type":"Feature","value":"Small leaf"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Double_Planks_Small leaf.png",
+	"name": "Water Sample N173",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Double"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Planks"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Small leaf"
+		}
+	]
+}

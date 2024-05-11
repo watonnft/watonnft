@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Trail_Faded yellow.png","name":"Water Sample N464","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Trail"},{"trait_type":"Background","value":"Faded yellow"},{"trait_type":"Feature","value":"None"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Trail_Faded yellow.png",
+	"name": "Water Sample N464",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Trail"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Faded yellow"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "None"
+		}
+	]
+}

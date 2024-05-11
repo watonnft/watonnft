@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Simple circle_Metal_5 Cent.png","name":"Water Sample N353","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Simple circle"},{"trait_type":"Background","value":"Metal"},{"trait_type":"Feature","value":"5 Cent"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Simple circle_Metal_5 Cent.png",
+	"name": "Water Sample N353",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Simple circle"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Metal"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "5 Cent"
+		}
+	]
+}

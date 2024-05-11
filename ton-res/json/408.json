@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Splitted_Light circle.png","name":"Water Sample N408","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Splitted"},{"trait_type":"Background","value":"Light circle"},{"trait_type":"Feature","value":"None"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Splitted_Light circle.png",
+	"name": "Water Sample N408",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Splitted"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Light circle"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "None"
+		}
+	]
+}

@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Trail_Prism_Flower.png","name":"Water Sample N498","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Trail"},{"trait_type":"Background","value":"Prism"},{"trait_type":"Feature","value":"Flower"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Trail_Prism_Flower.png",
+	"name": "Water Sample N498",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Trail"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Prism"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Flower"
+		}
+	]
+}

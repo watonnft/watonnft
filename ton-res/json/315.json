@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Horseshoe_Simple red square_Handkerchief.png","name":"Water Sample N315","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Horseshoe"},{"trait_type":"Background","value":"Simple red square"},{"trait_type":"Feature","value":"Handkerchief"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Horseshoe_Simple red square_Handkerchief.png",
+	"name": "Water Sample N315",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Horseshoe"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Simple red square"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Handkerchief"
+		}
+	]
+}

@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Simple circle_Faded yellow_Small leaf.png","name":"Water Sample N341","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Simple circle"},{"trait_type":"Background","value":"Faded yellow"},{"trait_type":"Feature","value":"Small leaf"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Simple circle_Faded yellow_Small leaf.png",
+	"name": "Water Sample N341",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Simple circle"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Faded yellow"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Small leaf"
+		}
+	]
+}

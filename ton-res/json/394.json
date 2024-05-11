@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Splitted_Bars_Flower.png","name":"Water Sample N394","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Splitted"},{"trait_type":"Background","value":"Bars"},{"trait_type":"Feature","value":"Flower"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Splitted_Bars_Flower.png",
+	"name": "Water Sample N394",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Splitted"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Bars"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Flower"
+		}
+	]
+}

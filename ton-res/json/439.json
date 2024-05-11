@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Splitted_Prism_Writing Water.png","name":"Water Sample N439","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Splitted"},{"trait_type":"Background","value":"Prism"},{"trait_type":"Feature","value":"Writing Water"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Splitted_Prism_Writing Water.png",
+	"name": "Water Sample N439",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Splitted"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Prism"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Writing Water"
+		}
+	]
+}

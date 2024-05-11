@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Donut_Faded yellow_Small leaf.png","name":"Water Sample N85","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Donut"},{"trait_type":"Background","value":"Faded yellow"},{"trait_type":"Feature","value":"Small leaf"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Donut_Faded yellow_Small leaf.png",
+	"name": "Water Sample N85",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Donut"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Faded yellow"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Small leaf"
+		}
+	]
+}

@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Cross_Prism.png","name":"Water Sample N48","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Cross"},{"trait_type":"Background","value":"Prism"},{"trait_type":"Feature","value":"None"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Cross_Prism.png",
+	"name": "Water Sample N48",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Cross"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Prism"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "None"
+		}
+	]
+}

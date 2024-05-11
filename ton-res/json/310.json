@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Horseshoe_Prism_Stick.png","name":"Water Sample N310","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Horseshoe"},{"trait_type":"Background","value":"Prism"},{"trait_type":"Feature","value":"Stick"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Horseshoe_Prism_Stick.png",
+	"name": "Water Sample N310",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Horseshoe"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Prism"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Stick"
+		}
+	]
+}

@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Horseshoe_Metal_Handkerchief.png","name":"Water Sample N291","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Horseshoe"},{"trait_type":"Background","value":"Metal"},{"trait_type":"Feature","value":"Handkerchief"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Horseshoe_Metal_Handkerchief.png",
+	"name": "Water Sample N291",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Horseshoe"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Metal"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Handkerchief"
+		}
+	]
+}

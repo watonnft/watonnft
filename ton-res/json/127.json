@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Donut_Simple red square_Writing Water.png","name":"Water Sample N127","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Donut"},{"trait_type":"Background","value":"Simple red square"},{"trait_type":"Feature","value":"Writing Water"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Donut_Simple red square_Writing Water.png",
+	"name": "Water Sample N127",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Donut"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Simple red square"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Writing Water"
+		}
+	]
+}

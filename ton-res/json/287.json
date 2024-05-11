@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Horseshoe_Light circle_Writing Water.png","name":"Water Sample N287","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Horseshoe"},{"trait_type":"Background","value":"Light circle"},{"trait_type":"Feature","value":"Writing Water"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Horseshoe_Light circle_Writing Water.png",
+	"name": "Water Sample N287",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Horseshoe"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Light circle"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Writing Water"
+		}
+	]
+}

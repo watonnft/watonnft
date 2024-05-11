@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Cross_Simple red square_Handkerchief.png","name":"Water Sample N59","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Cross"},{"trait_type":"Background","value":"Simple red square"},{"trait_type":"Feature","value":"Handkerchief"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Cross_Simple red square_Handkerchief.png",
+	"name": "Water Sample N59",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Cross"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Simple red square"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Handkerchief"
+		}
+	]
+}

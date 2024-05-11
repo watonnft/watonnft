@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Donut_Metal_Flower.png","name":"Water Sample N98","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Donut"},{"trait_type":"Background","value":"Metal"},{"trait_type":"Feature","value":"Flower"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Donut_Metal_Flower.png",
+	"name": "Water Sample N98",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Donut"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Metal"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Flower"
+		}
+	]
+}

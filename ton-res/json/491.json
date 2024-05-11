@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Trail_Planks_Handkerchief.png","name":"Water Sample N491","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Trail"},{"trait_type":"Background","value":"Planks"},{"trait_type":"Feature","value":"Handkerchief"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Trail_Planks_Handkerchief.png",
+	"name": "Water Sample N491",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Trail"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Planks"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Handkerchief"
+		}
+	]
+}

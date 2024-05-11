@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Cross_Prism_Stick.png","name":"Water Sample N54","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Cross"},{"trait_type":"Background","value":"Prism"},{"trait_type":"Feature","value":"Stick"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Cross_Prism_Stick.png",
+	"name": "Water Sample N54",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Cross"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Prism"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Stick"
+		}
+	]
+}

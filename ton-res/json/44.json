@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Cross_Planks_Scratch Water.png","name":"Water Sample N44","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Cross"},{"trait_type":"Background","value":"Planks"},{"trait_type":"Feature","value":"Scratch Water"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Cross_Planks_Scratch Water.png",
+	"name": "Water Sample N44",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Cross"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Planks"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Scratch Water"
+		}
+	]
+}

@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Extended drop_Planks.png","name":"Water Sample N232","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Extended drop"},{"trait_type":"Background","value":"Planks"},{"trait_type":"Feature","value":"None"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Extended drop_Planks.png",
+	"name": "Water Sample N232",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Extended drop"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Planks"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "None"
+		}
+	]
+}

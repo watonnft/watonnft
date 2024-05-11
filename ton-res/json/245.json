@@ -1,1 +1,19 @@
-{"image":"https://watonnft.github.io/ton-res/images/Extended drop_Prism_Small leaf.png","name":"Water Sample N245","description":"Pure digital water!","attributes":[{"trait_type":"Shape","value":"Extended drop"},{"trait_type":"Background","value":"Prism"},{"trait_type":"Feature","value":"Small leaf"}]}
+{
+	"image": "https://watonnft.github.io/ton-res/images/Extended drop_Prism_Small leaf.png",
+	"name": "Water Sample N245",
+	"description": "Pure digital water!",
+	"attributes": [
+		{
+			"trait_type": "Shape",
+			"value": "Extended drop"
+		},
+		{
+			"trait_type": "Background",
+			"value": "Prism"
+		},
+		{
+			"trait_type": "Feature",
+			"value": "Small leaf"
+		}
+	]
+}
