@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Double_Bars.png",
 	"name": "Water Sample N136",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Double_Bars.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

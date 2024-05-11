@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Cross_Faded yellow_Stick.png",
 	"name": "Water Sample N22",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Cross_Faded yellow_Stick.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Extended drop_Bars.png",
 	"name": "Water Sample N200",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Extended drop_Bars.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

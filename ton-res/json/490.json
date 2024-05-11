@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Trail_Planks_Flower.png",
 	"name": "Water Sample N490",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Trail_Planks_Flower.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

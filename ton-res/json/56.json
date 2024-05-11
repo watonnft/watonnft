@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Cross_Simple red square.png",
 	"name": "Water Sample N56",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Cross_Simple red square.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

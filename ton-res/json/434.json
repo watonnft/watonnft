@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Splitted_Prism_Flower.png",
 	"name": "Water Sample N434",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Splitted_Prism_Flower.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

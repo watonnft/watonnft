@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Cross_Bars.png",
 	"name": "Water Sample N8",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Cross_Bars.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

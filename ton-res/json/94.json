@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Donut_Light circle_Stick.png",
 	"name": "Water Sample N94",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Donut_Light circle_Stick.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

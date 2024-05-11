@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Horseshoe_Prism_Handkerchief.png",
 	"name": "Water Sample N307",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Horseshoe_Prism_Handkerchief.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

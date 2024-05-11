@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Trail_Prism.png",
 	"name": "Water Sample N496",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Trail_Prism.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

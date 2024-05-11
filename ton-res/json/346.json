@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Simple circle_Light circle_Flower.png",
 	"name": "Water Sample N346",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Simple circle_Light circle_Flower.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

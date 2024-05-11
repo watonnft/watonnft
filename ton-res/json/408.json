@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Splitted_Light circle.png",
 	"name": "Water Sample N408",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Splitted_Light circle.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

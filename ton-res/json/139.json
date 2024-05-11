@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Double_Bars_Handkerchief.png",
 	"name": "Water Sample N139",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Double_Bars_Handkerchief.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Donut_Bars.png",
 	"name": "Water Sample N72",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Donut_Bars.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

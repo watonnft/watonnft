@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Splitted_Faded yellow.png",
 	"name": "Water Sample N400",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Splitted_Faded yellow.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

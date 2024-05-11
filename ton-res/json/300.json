@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Horseshoe_Planks_Scratch Water.png",
 	"name": "Water Sample N300",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Horseshoe_Planks_Scratch Water.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

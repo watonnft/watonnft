@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Extended drop_Simple red square_Flower.png",
 	"name": "Water Sample N250",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Extended drop_Simple red square_Flower.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

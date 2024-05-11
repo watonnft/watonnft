@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Splitted_Metal.png",
 	"name": "Water Sample N416",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Splitted_Metal.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

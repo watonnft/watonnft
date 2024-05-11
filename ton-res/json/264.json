@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Horseshoe_Bars.png",
 	"name": "Water Sample N264",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Horseshoe_Bars.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

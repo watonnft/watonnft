@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Double_Metal.png",
 	"name": "Water Sample N160",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Double_Metal.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

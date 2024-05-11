@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Double_Prism_Stick.png",
 	"name": "Water Sample N182",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Double_Prism_Stick.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

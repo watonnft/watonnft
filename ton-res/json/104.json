@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Donut_Planks.png",
 	"name": "Water Sample N104",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Donut_Planks.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

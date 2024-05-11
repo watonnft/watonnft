@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Horseshoe_Metal_Small leaf.png",
 	"name": "Water Sample N293",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Horseshoe_Metal_Small leaf.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",

@@ -1,7 +1,7 @@
 {
-	"image": "https://watonnft.github.io/ton-res/images/Simple circle_Simple red square_Small leaf.png",
 	"name": "Water Sample N381",
 	"description": "Pure digital water!",
+	"image": "https://watonnft.github.io/ton-res/images/Simple circle_Simple red square_Small leaf.png",
 	"attributes": [
 		{
 			"trait_type": "Shape",
